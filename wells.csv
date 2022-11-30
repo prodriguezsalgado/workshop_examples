@@ -1,0 +1,174 @@
+WELL,LAT,LON,CLASS,AREA,OPERATOR,RIG_NAME,TD,KB,WD,DEPTH_UNIT,SPUD_DATE,RIG_RELEAS,STATUS
+48/25-1,51.3153056,-8.0555278,Exploration,North Celtic Sea Basin,Marathon,Glomar North Sea,10941,31,307,ft,16/05/1970,25/02/1971,P & A with/without shows or untested pay
+50/11-1,51.5820278,-6.9551389,Exploration,North Celtic Sea Basin,Marathon,Glomar North Sea,11906,31,236,ft,27/02/1971,10/09/1971,P & A with/without shows or untested pay
+48/25-2,51.3276403,-8.0968319,Exploration,North Celtic Sea Basin,Marathon,Glomar North Sea,6549,31,304,ft,13/09/1971,09/11/1971,P & A Gas Well
+48/20-1A,51.3521589,-8.0060456,Appraisal,North Celtic Sea Basin,Marathon,Glomar North Sea,7101,31,295,ft,06/05/1972,25/07/1972,P & A Gas Well
+58/3-1,50.8963036,-7.5861686,Exploration,South Celtic Sea Basin,Marathon,Glomar North Sea,9379,31,330,ft,31/07/1972,23/09/1972,P & A with/without shows or untested pay
+56/20-1,50.4851733,-9.1875708,Exploration,North Celtic Sea Basin,Esso,Glomar Grand Isle IX,7930,31,422,ft,16/08/1972,18/10/1972,P & A with/without shows or untested pay
+49/11-1,51.5402675,-7.8575294,Exploration,North Celtic Sea Basin,Marathon,Glomar North Sea,11967,31,267,ft,27/09/1972,22/02/1973,P & A with/without shows or untested pay
+49/16-1,51.3606506,-7.8673647,Appraisal,North Celtic Sea Basin,Marathon,Glomar North Sea,3569,31,295,ft,05/06/1973,29/06/1973,P & A with/without shows or untested pay
+49/16-2,51.3878278,-7.9596831,Appraisal,North Celtic Sea Basin,Marathon,Glomar North Sea,4300,31,293,ft,04/07/1973,09/08/1973,P & A Gas Well
+48/30-1,51.0625,-8.0908653,Exploration,North Celtic Sea Basin,Esso,Saipem Due,9545,43,339,ft,23/07/1973,11/10/1973,P & A with/without shows or untested pay
+49/29-1,51.0735664,-7.32562,Exploration,South Celtic Sea Basin,Marathon,Glomar North Sea,10502,31,319,ft,11/08/1973,20/10/1973,P & A with/without shows or untested pay
+48/24-1,51.1909678,-8.3945797,Exploration,North Celtic Sea Basin,Esso,Saipem Due,8582,43,337,ft,15/10/1973,20/07/1974,P & A Oil & Gas Well
+56/14-1,50.5851703,-9.2576656,Exploration,North Celtic Sea Basin,Esso,Saipem Due,9275,43,343,ft,13/02/1974,25/04/1974,P & A with/without shows or untested pay
+49/13-1,51.5970731,-7.5599136,Exploration,North Celtic Sea Basin,Marathon,Glomar North Sea,9516,31,260,ft,11/07/1974,12/10/1974,P & A Gas Well
+48/28-1,51.1647444,-8.4628956,Exploration,North Celtic Sea Basin,Esso,Saipem Due,5747,43,337,ft,27/09/1974,26/11/1974,P & A Oil Well
+49/14-1,51.5073903,-7.3575778,Exploration,North Celtic Sea Basin,Marathon,Glomar North Sea,7964,31,261,ft,13/10/1974,01/08/1975,P & A Gas Well
+50/12-1,51.5788992,-6.7054083,Exploration,North Celtic Sea Basin,Marathon,Norjarl,4320,80,237,ft,13/06/1975,07/07/1975,P & A with/without shows or untested pay
+56/12-1,50.6329561,-9.7757297,Exploration,North Celtic Sea Basin,Esso,Saipem Due,8973,44,440,ft,22/06/1975,26/08/1975,P & A with/without shows or untested pay
+50/11-2,51.5746194,-6.9895906,Exploration,North Celtic Sea Basin,Marathon,Norjarl,5800,80,240,ft,09/07/1975,10/08/1975,P & A with/without shows or untested pay
+49/20-1,51.4797339,-7.1349319,Exploration,North Celtic Sea Basin,Marathon,Glomar North Sea,6589,31,258,ft,02/08/1975,13/09/1975,P & A with/without shows or untested pay
+49/14-2,51.5045419,-7.2788206,Exploration,North Celtic Sea Basin,Marathon,Norjarl,6659,80,265,ft,12/08/1975,20/09/1975,P & A with/without shows or untested pay
+47/30-1,51.0534031,-9.0347583,Exploration,North Celtic Sea Basin,Esso,Saipem Due,8582,44,386,ft,27/08/1975,11/11/1975,P & A with/without shows or untested pay
+55/30-1,50.152675,-10.0983861,Exploration,Fastnet Basin,ELF,Neptune 7,2800,24,130,m,15/04/1976,28/06/1976,P & A with/without shows or untested pay
+50/3-1,51.8969378,-6.5360764,Exploration,North Celtic Sea Basin,Marathon,Glomar North Sea,8874,31,232,ft,29/04/1976,21/07/1976,P & A with/without shows or untested pay
+48/23-1,51.1801278,-8.5662108,Exploration,North Celtic Sea Basin,Esso,Saipem Due,8300,44,341,ft,03/06/1976,13/08/1976,P & A with/without shows or untested pay
+56/26-1,50.0656056,-9.9650917,Exploration,Fastnet Basin,BP,Neptune 7,2931,24,141,m,01/07/1976,17/08/1976,P & A with/without shows or untested pay
+56/21-1,50.3151833,-9.9205722,Exploration,Fastnet Basin,Deminex,Borgny Dolphin,2850,25.2,130,m,16/07/1976,26/08/1976,P & A with/without shows or untested pay
+57/6-1,50.8269069,-8.8182958,Exploration,North Celtic Sea Basin,Esso,Glomar North Sea,8161,31,348,ft,23/07/1976,08/09/1976,P & A with/without shows or untested pay
+35/13-1x,52.5977722,-12.41995,Exploration,Porcupine Basin,Shell,Sedco 707,4405,24.4,482.5,m,07/04/1977,21/10/1977,P & A with/without shows or untested pay
+63/8-1,49.8045072,-10.4985856,Exploration,Fastnet Basin,Ranger,Zapata Ugland,6301,88,447,ft,25/04/1977,21/05/1977,P & A with/without shows or untested pay
+63/4-1,49.9323797,-10.3644786,Exploration,Fastnet Basin,Cities Services,Chris Chenery,1645.2,33.2,127.72,m,04/06/1977,07/07/1977,P & A with/without shows or untested pay
+34/15-1,52.5753911,-13.1227833,Exploration,Porcupine Basin,Deminex,Zapata Lexington,4446,23,482,m,04/06/1977,24/09/1977,P & A with/without shows or untested pay
+49/30-1,51.0089444,-7.0667719,Exploration,South Celtic Sea Basin,Marathon,Glomar North Sea,3502,31,344,ft,08/08/1977,23/08/1977,P & A with/without shows or untested pay
+33/22-1,53.2141892,-5.6325261,Exploration,Kish Bank Basin,Amoco,Zephyr 1,3203,82,162,ft,03/11/1977,15/12/1977,P & A with/without shows or untested pay
+42/17-1A,52.4829708,-5.7634425,Exploration,Central Irish Sea Basin,Marathon,Dundee Kingsnorth,4968,83,247,ft,14/03/1978,26/04/1978,P & A with/without shows or untested pay
+35/29-1,52.1139444,-12.3078333,Exploration,Porcupine Basin,Shell,Sedco 709,2900,24,804,m,03/04/1978,29/05/1978,P & A with/without shows or untested pay
+56/21-2,50.1918975,-9.8177478,Exploration,Fastnet Basin,Deminex,Zapata Ugland,3720,27,125,m,04/04/1978,23/06/1978,P & A with/without shows or untested pay
+35/2-1,52.97575,-12.6131944,Exploration,Porcupine Basin,ELF,Petrel,3995,13,391,m,07/04/1978,03/10/1978,P & A with/without shows or untested pay
+56/26-2,50.0071292,-9.8978461,Exploration,Fastnet Basin,BP,Sedco 703,3136,29,145,m,22/04/1978,07/07/1978,P & A with/without shows or untested pay
+48/22-1A,51.2098178,-8.7915919,Exploration,North Celtic Sea Basin,Esso,Discoverer 534,9146,46,347,ft,28/04/1978,08/07/1978,P & A with/without shows or untested pay
+35/8-1,52.7171619,-12.41846,Exploration,Porcupine Basin,Phillips,Sedco 708,14500,86,1411,ft,05/05/1978,06/10/1978,P & A Oil Well
+19/5-1,55.8885217,-8.5022817,Exploration,Donegal Basin,Texaco,Sedneth 701,4483,86,430,ft,27/05/1978,25/06/1978,P & A with/without shows or untested pay
+34/19-1,52.4375639,-13.348075,Exploration,Porcupine Basin,Shell,Sedco 709,3208,24,426,m,31/05/1978,10/08/1978,P & A with/without shows or untested pay
+19/5-1,54.9617258,-10.0333636,Exploration,Erris Trough,Amoco,Zapata Ugland,8479,88,380,ft,28/06/1978,13/08/1978,P & A with/without shows or untested pay
+64/2-1,49.9613567,-9.7297233,Exploration,Fastnet Basin,ELF,Sedneth 701,2252,26,133,m,02/07/1978,05/08/1978,P & A with/without shows or untested pay
+48/24-2,51.1718389,-8.2468992,Exploration,North Celtic Sea Basin,Esso,Discoverer 534,7363,46,328,ft,10/07/1978,31/08/1978,P & A with/without shows or untested pay
+26/22-1A,53.2269694,-12.708025,Exploration,Porcupine Basin,BP,Sedco 703,2573,25.9,343.9,m,26/07/1978,28/09/1978,P & A with/without shows or untested pay
+56/22-1,50.1857086,-9.6361339,Exploration,Fastnet Basin,Texaco,Sedneth 701,7463,86,376,ft,07/08/1978,05/09/1978,P & A with/without shows or untested pay
+35/6-1,52.7051861,-12.9610072,Exploration,Porcupine Basin,Deminex,Sedco 709,3959,24,486,m,13/08/1978,19/11/1978,P & A with/without shows or untested pay
+56/9-1,50.7140583,-9.3157778,Exploration,North Celtic Sea Basin,ELF,Sedco 700,2592,25.6,124,m,28/04/1979,21/06/1979,P & A with/without shows or untested pay
+49/17-1y,51.4052136,-7.6971889,Exploration,North Celtic Sea Basin,Marathon,Aladdin,8528,82,279,ft,16/05/1979,30/08/1979,P & A with/without shows or untested pay
+36/16-1A,52.4769906,-11.9384133,Exploration,Porcupine Basin,Chevron,SEDCO J,9011,99,820,ft,29/05/1979,17/08/1979,P & A with/without shows or untested pay
+26/28-1,53.0414394,-12.5588136,Exploration,Porcupine Basin,BP,Sedco 703,3315,25.9,399.9,m,12/06/1979,30/08/1979,P & A Oil Well
+12/13-1A,55.6176806,-9.510625,Exploration,Erris Trough,Amoco,Pacnorse 1,9414,40,1575,ft,17/07/1979,09/09/1979,P & A with/without shows or untested pay
+26/21-1,53.187645,-12.8295683,Exploration,Porcupine Basin,Gulf,Sedco 703,2176,26.3,338.1,m,07/09/1979,12/10/1979,P & A with/without shows or untested pay
+33/21-1,53.3227733,-5.9270478,Exploration,Kish Bank Basin,Shell,Penrod 81,2338,35,18.5,m,30/10/1979,21/12/1979,P & A with/without shows or untested pay
+35/15-1,52.5817497,-12.1121675,Exploration,Porcupine Basin,Phillips,Ocean Ranger,12098,97,1020,ft,24/06/1980,19/10/1980,P & A with/without shows or untested pay
+26/28-2,53.0406364,-12.5803444,Appraisal,Porcupine Basin,BP,Sea Conquest,2697,26,378.3,m,11/07/1980,21/09/1980,P & A Oil Well
+34/5-1A,52.9909644,-13.1788722,Exploration,Porcupine Basin,ELF,Western Pacesetter II,1488,25,289,m,22/07/1980,19/08/1980,P & A with/without shows or untested pay
+50/12-2A,51.6542594,-6.7870331,Exploration,North Celtic Sea Basin,BP,Bradford Dolphin,3098,26.5,73.5,m,19/04/1981,07/08/1981,P & A with/without shows or untested pay
+26/27-1B,53.0880667,-12.7331667,Exploration,Porcupine Basin,Chevron,Western Pacesetter II,9236,84,1256,ft,23/04/1981,10/06/1981,P & A with/without shows or untested pay
+35/8-2,52.7749444,-12.4652222,Exploration,Porcupine Basin,Phillips,Sedco 700,15200,86,1386,ft,19/04/1981,23/10/1981,P & A Oil & Gas Well
+63/10-1,49.7625275,-10.1711383,Exploration,Fastnet Basin,Cities Services,West Venture,3447,33.2,143.3,m,24/05/1981,05/08/1981,P & A with/without shows or untested pay
+26/28-3,53.0708333,-12.5240694,Exploration,Porcupine Basin,BP,Kingsnorth U.K.,2588,26,364,m,26/05/1981,15/07/1981,P & A with/without shows or untested pay
+26/26-1,53.0790808,-12.8660033,Exploration,Porcupine Basin,Shell,Pacnorse I,1256,12,363,m,01/06/1981,29/06/1981,P & A with/without shows or untested pay
+26/28-4Az,53.0735136,-12.4616617,Exploration,Porcupine Basin,BP,Kingsnorth U.K.,2418,25,350,m,09/08/1981,08/10/1981,P & A with/without shows or untested pay
+27/13-1A,53.5574167,-11.4102778,Exploration,Slyne Trough,ELF,Pentagone 84,2725,24,191,m,22/10/1981,24/01/1982,P & A with/without shows or untested pay
+62/7-1,49.6673025,-11.7630297,Exploration,Goban Spur,Esso,Sedco 472,15327,33,3258,ft,12/05/1982,24/08/1982,P & A with/without shows or untested pay
+26/30-1,53.1093306,-12.1002394,Exploration,Porcupine Basin,Phillips,Sedco 707,5648,79,817,ft,19/05/1982,24/06/1982,P & A with/without shows or untested pay
+26/29-1,53.0753264,-12.3452772,Exploration,Porcupine Basin,BP,Kingsnorth U.K.,1842,25,346,m,17/09/1982,19/10/1982,P & A with/without shows or untested pay
+49/9-1,51.7061417,-7.3774889,Exploration,North Celtic Sea Basin,Gulf,Sedco 704,9239,85,249,ft,16/04/1983,16/06/1983,P & A with/without shows or untested pay
+57/7-1,50.7727753,-8.7509936,Exploration,North Celtic Sea Basin,Burmah,Diamond M. Hunter,9415,73,368,ft,03/05/1983,25/07/1983,P & A with/without shows or untested pay
+57/2-1,50.9080567,-8.7006817,Exploration,North Celtic Sea Basin,Total,Dyi Alpha,3800,25,113.5,m,30/05/1983,30/09/1983,P & A with/without shows or untested pay
+49/9-2,51.6839583,-7.3460944,Exploration,North Celtic Sea Basin,Gulf,Sedco 704,6300,85,256,ft,17/06/1983,26/08/1983,Suspended Oil Well
+48/26-1,51.0089194,-8.9248611,Exploration,North Celtic Sea Basin,ELF,Diamond M. Hunter,2801,22,114,m,27/07/1983,03/11/1983,P & A with/without shows or untested pay
+56/18-1,50.3712947,-9.4782708,Exploration,North Celtic Sea Basin,Gulf,Sedco 704,11973,85,442,ft,29/08/1983,16/11/1983,P & A with/without shows or untested pay
+49/9-3y,51.6839583,-7.3463722,Appraisal,North Celtic Sea Basin,Gulf,Sedco 704,8550,85,250,ft,21/11/1983,09/04/1984,Suspended with/without shows or untested pay
+48/19-1A,51.4231139,-8.3362139,Exploration,North Celtic Sea Basin,Gulf,Sedco 704,12090,85,290,ft,13/04/1984,16/07/1984,P & A with/without shows or untested pay
+26/28-5,53.0335553,-12.5524467,Appraisal,Porcupine Basin,BP,Ali Baba,2810,25,376,m,24/04/1984,04/06/1984,P & A with/without shows or untested pay
+64/1-1,49.8738686,-9.9312358,Exploration,Fastnet Basin,Cities Services,Glomar Artic II,2398.66,26.2,124.06,m,16/07/1984,25/08/1984,P & A with/without shows or untested pay
+49/10-1,51.68485,-7.1765389,Exploration,North Celtic Sea Basin,Gulf,Glomar Artic II,6750,84,247,ft,27/08/1984,09/11/1984,P & A with/without shows or untested pay
+49/19-1,51.3813575,-7.3639467,Exploration,North Celtic Sea Basin,Marathon,Sedco 704,11820,95,284,ft,09/09/1984,15/01/1985,P & A with/without shows or untested pay
+57/9-1,50.8278781,-8.381835,Exploration,North Celtic Sea Basin,Conoco,Western Pacesetter II,8224,84,296,ft,16/09/1984,10/11/1984,P & A Oil & Gas Well
+47/29-1,51.06075,-9.2583333,Exploration,North Celtic Sea Basin,Arco,Santa Fe 135,10115,85,389,ft,24/03/1985,01/06/1985,P & A with/without shows or untested pay
+35/19-1,52.4378611,-12.2795556,Exploration,Porcupine Basin,Britoil,High Seas Driller,18210,85,1571,ft,08/04/1985,12/09/1985,P & A with/without shows or untested pay
+49/14-3,51.63275,-7.3256083,Exploration,North Celtic Sea Basin,Esso,Sedco 704,11715,85,254,ft,30/04/1985,18/08/1985,P & A with/without shows or untested pay
+48/18-1,51.4250472,-8.4226778,Exploration,North Celtic Sea Basin,BP,Ali Baba,1370,25,90,m,09/05/1985,26/06/1985,P & A Oil & Gas Well
+49/15-1,51.6587389,-7.059775,Exploration,North Celtic Sea Basin,Esso,Sedco 704,7000,85,249,ft,19/08/1985,19/09/1985,P & A with/without shows or untested pay
+50/6-1,51.7572369,-6.8503711,Exploration,North Celtic Sea Basin,Gulf,Glomar Arctic I,7750,85,240,ft,19/10/1985,03/02/1986,P & A Oil Well
+42/12-1,52.6142086,-5.7935214,Exploration,Central Irish Sea Basin,HIL,Western Apollo I,9265,108,206,ft,08/03/1986,16/05/1986,P & A with/without shows or untested pay
+49/13-2,51.6629889,-7.4406194,Exploration,North Celtic Sea Basin,Marathon,Western Pacesetter IV,5274,84,263,ft,28/04/1986,12/06/1986,P & A with/without shows or untested pay
+33/17-1,53.3689014,-5.6074267,Exploration,Kish Bank Basin,Charterhouse,Western Apollo I,6660,110,236,ft,18/05/1986,20/06/1986,P & A with/without shows or untested pay
+50/3-2,51.8892511,-6.5291553,Exploration,North Celtic Sea Basin,Enterprise Oil,Western Pacesetter IV,6520,86,229,ft,14/06/1986,29/07/1986,P & A with/without shows or untested pay
+42/21-1,52.1884806,-5.9834556,Exploration,North Celtic Sea Basin,Gulf,Ali Baba,6650,84,295,ft,28/07/1986,09/09/1986,P & A with/without shows or untested pay
+50/7-1,51.7612794,-6.7474233,Exploration,North Celtic Sea Basin,Marathon,Western Pacesetter IV,5835,86,236,ft,19/09/1986,16/10/1986,P & A with/without shows or untested pay
+57/2-2,50.9140742,-8.7596303,Exploration,North Celtic Sea Basin,Total,Ali Baba,3009,25.5,107,m,05/04/1987,07/06/1987,P & A with/without shows or untested pay
+49/9-4,51.6713111,-7.3843278,Exploration,North Celtic Sea Basin,BP,Sedco 700,2086,25.91,74.5,m,10/04/1987,01/06/1987,P & A Oil Well
+50/6-2,51.8049722,-6.8228056,Exploration,North Celtic Sea Basin,BP,Sedco 700,1100,25.91,73,m,02/06/1987,18/06/1987,P & A with/without shows or untested pay
+43/13-1,51.5050111,-13.4025083,Exploration,Porcupine Basin,BP,Pacnorse 1,5128,12,921,m,07/04/1988,11/09/1988,P & A with/without shows or untested pay
+42/16-1,52.4237528,-5.8459583,Exploration,Central Irish Sea Basin,Conoco,Alladin,4754,82,259,ft,20/05/1988,03/07/1988,P & A with/without shows or untested pay
+35/18-1,52.4851414,-12.5314247,Exploration,Porcupine Basin,Amoco,Henry Goodrich,3901,22,566,m,07/06/1988,31/07/1988,P & A with/without shows or untested pay
+48/20-2,51.4519644,-8.1246572,Exploration,North Celtic Sea Basin,Marathon,Western Pacesetter IV,3595,85,285,ft,01/03/1989,06/04/1989,Gas Producer
+49/9-5,51.6910444,-7.2924417,Exploration,North Celtic Sea Basin,BP,Sedco 700,1820,25.9,75.8,m,01/03/1989,17/04/1989,P & A with/without shows or untested pay
+48/20-3,51.4875925,-8.0776756,Exploration,North Celtic Sea Basin,Marathon,Western Pacesetter,2950,85,282,ft,08/04/1989,10/05/1989,P & A with/without shows or untested pay
+48/20-4,51.4639881,-8.0882533,Appraisal,North Celtic Sea Basin,Marathon,Western Pacesetter,3100,85,279,ft,11/05/1989,31/05/1989,P & A with/without shows or untested pay
+48/20-5,51.476845,-8.0649525,Exploration,North Celtic Sea Basin,Marathon,Western Pacesetter IV,3100,85,281,ft,01/06/1989,19/06/1989,P & A with/without shows or untested pay
+48/24-3,51.2008228,-8.2875728,Exploration,North Celtic Sea Basin,Marathon,Western Pacesetter IV,8475,85,331,ft,16/01/1990,30/04/1990,P & A Oil & Gas Well
+48/24-4,51.3313647,-8.2963656,Exploration,North Celtic Sea Basin,Marathon,Western Pacesetter IV,8110,85,310,ft,01/05/1990,19/06/1990,P & A with/without shows or untested pay
+50/13-1,51.58024,-6.4539192,Exploration,North Celtic Sea Basin,Conoco,Western Pacetter,5900,85,256,ft,22/06/1990,20/07/1990,P & A with/without shows or untested pay
+42/12-2,52.6577264,-5.6170497,Exploration,Central Irish Sea Basin,HIL,Glomar Main Pass 1,3800,98,238,ft,14/07/1990,31/07/1990,P & A with/without shows or untested pay
+50/3-3,51.9094967,-6.5963619,Exploration,North Celtic Sea Basin,Marathon,Western Pacesetter IV,4800,85,212,ft,03/06/1991,01/07/1991,P & A with/without shows or untested pay
+48/30-2,51.1073983,-8.1638247,Exploration,North Celtic Sea Basin,Marathon,Ocean Liberator,8500,82,340,ft,08/07/1992,23/08/1992,P & A with/without shows or untested pay
+48/19-2,51.4331572,-8.2963656,Exploration,North Celtic Sea Basin,Bula,Ocean Liberator,4500,82,291,ft,26/08/1992,09/10/1992,P & A with/without shows or untested pay
+48/28-2,51.0843633,-8.4370414,Exploration,North Celtic Sea Basin,Marathon,Ocean Bounty,7153,82,342,ft,02/07/1993,31/07/1993,P & A with/without shows or untested pay
+50/12-3,51.5015861,-6.6438086,Exploration,North Celtic Sea Basin,Mobil,Ocean Alliance,10648,85,258,ft,13/07/1993,25/08/1993,P & A with/without shows or untested pay
+50/2-1,51.8680553,-6.7472853,Exploration,North Celtic Sea Basin,Marathon,Ocean Bounty,4050,82,233,ft,02/08/1993,24/08/1993,P & A with/without shows or untested pay
+50/10-1,51.7404456,-6.1961219,Exploration,North Celtic Sea Basin,Mobil,Maersk Vinlander,8723,75,293,ft,05/08/1994,19/09/1994,P & A with/without shows or untested pay
+42/8-1A,52.774595,-5.5333933,Exploration,Central Irish Sea Basin,BHP,Maersk Vinlander,8948,75,225,ft,23/09/1994,16/10/1994,P & A with/without shows or untested pay
+41/30-1,52.1428167,-6.1282472,Exploration,Central Irish Sea Basin,Marathon,Kan Tan IV,7343,85,248,ft,10/06/1995,07/07/1995,P & A with/without shows or untested pay
+49/11-2,51.5004825,-7.9322031,Exploration,North Celtic Sea Basin,Marathon,Kan Tan IV,3200,85,273,ft,16/07/1995,29/07/1995,P & A with/without shows or untested pay
+48/25-3,51.3270858,-8.0984331,Appraisal,North Celtic Sea Basin,Marathon,Kan Tan IV,3552,85,305,ft,30/07/1995,26/08/1995,Gas Producer
+50/6-3,51.7498778,-6.9262528,Exploration,North Celtic Sea Basin,Marathon,Kan Tan IV,5968,85,237,ft,27/08/1995,16/09/1995,P & A with/without shows or untested pay
+56/15-1,50.5447381,-9.1974536,Exploration,North Celtic Sea Basin,Chevron,Kan Tan IV,8335,85,404,ft,10/11/1995,22/12/1995,P & A with/without shows or untested pay
+27/5-1,53.9193628,-11.1076653,Exploration,Slyne Trough,Enterprise Oil,Petrolia,1910,26.5,200.5,m,29/04/1996,11/06/1996,P & A with/without shows or untested pay
+18/20-1,54.3474672,-11.0930733,Exploration,Slyne Trough,Enterprise Oil,Petrolia,4372,27,199.2,m,17/06/1996,10/11/1996,P & A with/without shows or untested pay
+26/28-A1,53.0543758,-12.5755011,Appraisal,Porcupine Basin,Statoil,JW McLean,3384,26.8,375,m,13/04/1997,27/09/1997,P & A Oil Well
+26/28-A1Z,53.0543758,-12.5755011,Appraisal,Porcupine Basin,Statoil,JW McLean,3360,26.8,375,m,13/04/1997,27/09/1997,P & A Oil Well
+26/28-A2,53.0542889,-12.5739333,Appraisal,Porcupine Basin,Statoil,JW McLean,4984,26.8,375,m,09/04/1997,02/10/1997,P & A with/without shows or untested pay
+35/17-1,52.3812794,-12.6770739,Exploration,Porcupine Basin,Total,Sovereign Explorer,4305,26.5,623.5,m,03/07/1997,24/08/1997,P & A with/without shows or untested pay
+35/30-1,52.0946847,-12.1227464,Exploration,Porcupine Basin,Marathon,Jack Bates,17110,90,2296,ft,23/07/1997,14/11/1997,P & A with/without shows or untested pay
+33/17-2A,53.3778586,-5.7963306,Exploration,Kish Bank Basin,Enterprise Oil,Arch Rowan,1310,35.8,50.2,m,19/12/1997,31/12/1997,P & A with/without shows or untested pay
+18/20-2z,54.3398567,-11.0557675,Appraisal,Slyne Trough,Enterprise Oil,SEDCO 711,3731,26.4,348.6,m,30/06/1998,11/09/1998,Suspended Gas Well
+18/25-1,54.3201244,-11.0469222,Appraisal,Slyne Trough,Enterprise Oil,SEDCO 711,3770,26.4,336.1,m,01/05/1999,17/08/1999,Suspended Gas Well
+18/25-2,54.2300458,-11.1191636,Exploration,Slyne Trough,Enterprise Oil,SEDCO 711,2965.5,26.4,299,m,18/08/1999,13/10/1999,P & A with/without shows or untested pay
+18/20-3,54.34854,-11.0359503,Appraisal,Slyne Trough,Enterprise Oil,Sedco 711,3790,26.4,355.2,m,17/04/2000,30/06/2000,Suspended Gas Well
+18/20-4,54.3396319,-11.0555906,Appraisal,Slyne Trough,Enterprise Oil,Sedco 711,4061,26.4,348.7,m,01/07/2000,10/09/2000,Suspended Gas Well
+49/9-6,51.6809564,-7.34109,Appraisal/Developm,North Celtic Sea Basin,Providence Resources,Ocean Nomad,6460,83,253,ft,01/07/2000,04/09/2000,Suspended Oil Well
+49/9-6z,51.6809564,-7.34109,Appraisal/Developm,North Celtic Sea Basin,Providence Resources,Ocean Nomad,6866,83,253,ft,01/07/2000,13/09/2000,Suspended Oil Well
+5/22-1,56.1868875,-9.7518575,Exploration,Rockall Trough,Enterprise Oil,West Navion,4070,36,1623,m,26/03/2001,28/04/2001,P & A with/without shows or untested pay
+18/25-3,54.3206853,-11.0692717,Appraisal,Slyne Trough,Enterprise Oil,Sedco 711,3763,26.4,337.6,m,09/04/2001,27/07/2001,Suspended Gas Well
+48/25-4,51.3236997,-8.11431,Appraisal/Developmt,North Celtic Sea Basin,Marathon,Ton van Langeveld,4137,106,305,ft,25/04/2001,10/06/2001,Gas Producer
+48/25-5,51.3237228,-8.1139494,Appraisal/Developmt,North Celtic Sea Basin,Marathon,Ton van Langeveld,4208,106,309,ft,28/04/2001,10/06/2001,Gas Producer
+35/21-1,52.3163583,-12.9700639,Exploration,Porcupine Basin,Statoil,Sovereign Explorer,3650,25.6,660,m,13/05/2001,03/07/2001,P & A with/without shows or untested pay
+63/4-2,49.8524072,-10.3764203,Exploration,Fastnet Basin,EDC (Europe) Ltd,Ton van Langeveld,7217,106,437,ft,13/06/2001,10/07/2001,P & A with/without shows or untested pay
+48/24-5A,51.2050464,-8.3515142,Appraisal/Developmt,North Celtic Sea Basin,Ramco Oil Ltd,Pride North Sea,4275,82,334,ft,05/08/2001,28/10/2001,Gas Producer
+12/2-1z,55.9223869,-9.6524358,Exploration,Rockall Basin,Enterprise Energy,Jack Bates,4146,29,1475.8,m,06/08/2002,30/10/2002,P & A with/without shows or untested pay
+48/24-6,51.191797,-8.395044,Appraisal/Developmt,North Celtic Sea Basin,Ramco Seven Heads,Sedco 711,4260,87,331,ft,15/03/2003,18/04/2003,Gas Producer
+48/25-6,51.326419,-8.099089,Appraisal/Developmt,North Celtic Sea Basin,Marathon,Sedco 711,9234,86.5,305,ft,22/04/2003,27/05/2003,Gas Producer
+48/24-7A,51.196325,-8.333825,Appraisal/Developmt,North Celtic Sea Basin,Ramco Seven Heads,Sedco 704,3626,87,329,ft,16/05/2003,23/05/2003,Gas Producer
+48/24-8,51.172683,-8.252914,Appraisal/Developmt,North Celtic Sea Basin,Ramco Seven Heads,Sedco 711,4150,86,320,ft,12/06/2003,21/07/2003,Gas Producer
+48/24-9,51.188964,-8.255169,Appraisal/Developmt,North Celtic Sea Basin,Ramco Seven Heads,Sedco 704,3655,87,325,ft,24/06/2003,17/07/2003,Gas Producer
+48/23-2,51.169081,-8.428825,Appraisal/Developmt,North Celtic Sea Basin,Ramco Seven Heads,Sedco 711 & Sedco 704,3613,87,328,ft,23/07/2003,22/08/2003,P & A with/without shows or untested pay
+19/11-1A,54.515817,-10.86371,Exploration,Slyne Basin,Statoil,Sedco 711,4685,24.6,397,m,11/08/2003,16/12/2003,P & A with/without shows or untested pay
+49/26-1A,51.059336,-7.978879,Exploration,North Celtic Sea Basin,Providence Resources,Stena Dee,6339,82,335,ft,27/07/2004,27/08/2004,P & A with/without shows or untested pay
+48/23-3,51.189225,-8.411797,Appraisal/Developmt,North Celtic Sea Basin,Island Oil and Gas,Petrolia,3325,87.7,341.2,ft,03/05/2006,07/07/2006,Suspended Gas Well
+49/23-1,51.313799,-7.545029,Exploration,North Celtic Sea Basin,Island Oil and Gas,Petrolia,4220,87.7,296.3,ft,12/07/2006,07/08/2006,Suspended with/without shows or untested pay
+13/12-1,55.6042211,-8.7792183,Exploration,Donegal Basin,Lundin Exploration,Petrolia,1533,87,316,ft,22/08/2006,04/09/2006,P & A with/without shows or untested pay
+18/20-5 P6,54.3393083,-11.0556961,Appraisal/Developmt,Slyne Basin,Shell,Sedco 711,4222,26.4,348.1,m,31/03/2007,22/10/2007,Suspended Gas Well
+18/20-6 P10,54.3399983,-11.0555425,Appraisal/Developmt,Slyne Basin,Shell,Sedco 711,3847,26.4,349,m,27/03/2007,25/10/2007,Suspended Gas Well
+49/23-2z,51.3032447,-7.5803289,Appraisal/Developmt,North Celtic Sea Basin,Island Oil and Gas,Petrolia,5140,87.7,289,ft,16/05/2007,10/07/2007,Suspended Gas Well
+57/2-3,50.9018533,-8.7671131,Exploration/Apprais,North Celtic Sea Basin,Island Oil and Gas,Petrolia,2989,87.7,357.8,ft,14/07/2007,12/08/2007,Suspended Gas Well
+50/11-3,51.5872903,-6.9197686,Exploration/Apprais,North Celtic Sea Basin,Providence Resources,Petrolia,4974,87,239,ft,17/08/2007,16/10/2007,Suspended with/without shows or untested pay
+12/2-2,55.8996783,-9.7607842,Exploration,Rockall Basin,Shell E&P Ireland,Leiv Eiriksson,4456,25,1720,m,15/05/2008,28/07/2008,P & A with/without shows or untested pay
+19/8-1,54.7065556,-10.4390278,Exploration,Erris Basin,Statoil Exploration,Ocean Vanguard,2755,22,176,m,19/05/2008,08/07/2008,P & A with/without shows or untested pay
+50/11-4,51.5949728,-6.9510564,Appraisal,North Celtic Sea Basin,Providence Resources,Arctic II,4951,76,244,ft,05/08/2008,01/09/2008,P & A with/without shows or untested pay
+50/6-4,51.7549061,-6.8025769,Appraisal,North Celtic Sea Basin,Providence Resources,Arctic II,5214,76,243,ft,05/09/2008,28/09/2008,Suspended with/without shows or untested pay
+"27/4-1,1z",53.9384435,-11.3734146,Exploration,Slyne Basin,Serica Energy UK,Ocean Guardian,1900,26.4,272.6,m,11/05/2009,12/06/2009,P & A with/without shows or untested pay
+18/20-7,54.40715,-11.0711777,Exploration,Slyne Basin,Shell,Sedco 711,4041,26.4,401,m,18/06/2010,13/10/2010,P & A with/without shows or untested pay
+48/24-10z,51.2011311,-8.2870492,Appraisal,North Celtic Sea Basin,Providence Resources,Arctic III,7650,86,335,ft,20/11/2011,24/03/2012,Suspended Oil Well
+44/23-1,51.3326379,-12.4566047,Exploration,Porcupine Basin,ExxonMobil E&P Irl,Eirik Raude,5000,25,1663,m,23/04/2013,30/07/2013,P & A with/without shows or untested pay
+49/11-3,51.519797,-7.820597,Exploration,North Celtic Sea Basin,PSE Seven Heads Ltd,Ocean Guardian,3480,86.5,276.5,ft,29/07/2015,18/08/2015,P & A with/without shows or untested pay
+53/6-1,50.784466,-12.976768,Exploration,Porcupine Basin,Providence Resources,Stena IceMAX,5281,32,2233,m,13/07/2017,25/09/2017,P & A with/without shows or untested pay
+52/4-1,50.8919708,-13.35673082,Exploration,Porcupine Basin,CNOOC,Stena IceMAX,5767,31.6,2165.4,m,28/05/2019,15/08/2019,P & A with/without shows or untested pay
